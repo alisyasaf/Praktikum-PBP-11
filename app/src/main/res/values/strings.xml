@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    <string name="buy">Beli</string>
+    <string name="my_name">Alisya</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="content_specs_display">Super Retina XDR display ProMotion technology Always-On display</string>
+    <string name="display">Display</string>
+    <string name="specification">Specification</string>
+    <string name="stock">Limited stock. Grab it fast!</string>
+    <string name="dummy_value">$999</string>
+    <string name="dummy_photos">5 photos</string>
+    <string name="content_text">A magical new way to interact with iPhone. Groundbreaking safety features designed to save lives. An innovative 48MP camera for mind-blowing detail. All powered by the ultimate smartphone chip.</string>
+    <string name="content_chip">A16 Bionic</string>
+    <string name="chip">Chip</string>
+    <string name="purchase">Your purchase was succesful!</string>
+    <string name="dial">Hubungi Seller</string>
+</resources>
